@@ -32,7 +32,7 @@ include 'navbar.php';
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/sunny/jquery-ui.css">
    
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTrtkkaf-4PXR8TyizYwfDiXehDhM5FVw&libraries=places"></script>
+   <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTrtkkaf-4PXR8TyizYwfDiXehDhM5FVw&libraries=places"></script>-->
      <style>
       body{
         height: 100%;
